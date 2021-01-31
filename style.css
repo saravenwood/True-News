@@ -29,8 +29,8 @@ body{
 /*this is the container for the navigation bar*/
 
 nav{
-  height: 175px;
-  width: 1000px;
+  height: 75px;
+  width: 100px;
   padding: 50px;
   border: 10px;
   border-style: double;
@@ -87,7 +87,7 @@ header{
 h1{
   color: blue;
   text-align: center;
-  font-size: 100px;
+  font-size: 150px;
   text-shadow: 4px 4px lightblue;
  
  h2{
