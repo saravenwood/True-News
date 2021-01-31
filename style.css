@@ -38,6 +38,7 @@ nav{
 }
 
 /* this is button containers for the navigations */
+
 a{
   background-color: black;
   font-family: 'anurati-regular';
@@ -47,14 +48,22 @@ a{
 }
 
 /* Change the link color to blue on hover */
-ul a:hover {
-  background-color: blue;
+
+.a {
+  transition-duration: 0.4s;
+}
+
+.a :hover {
+  background-color: #4CAF50; /* Green */
+  color: white;
 }
 
 /* Change the link color to red when active */
-.active{
+
+a:active {
   background-color: red;
 }
+
 
 
 
