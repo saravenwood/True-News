@@ -20,7 +20,7 @@ body{
   margin-right: auto;
   margin-top: 10px;
   margin-bottom: 10px;
-  width: 100%;
+  width: 90%;
   border: 10px;
   border-style: double;
   border-color: Silver;
@@ -30,7 +30,7 @@ body{
 nav{
   /* Add background image here - Megaphone-graphic */
   background-image: url("True-News/Megaphone-graphic.gif");
-  padding: 25px;
+  padding: 50px;
   border: 10px;
   border-style: double;
   border-color: Silver;
