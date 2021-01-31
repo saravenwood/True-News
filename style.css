@@ -68,15 +68,20 @@ a:active {
 
 /* This is the container for the header (title) */
 
-h1{
+header{
   color: plum;
   text-align: center;
   font-size: 100px;
   text-shadow: 4px 4px purple;
+ 
   /* Add the font Anurati-Regular */ 
+ 
   font-family: 'anurati-regular';
-  /* Add header background image here - Banner-pic */
+ 
+  /* Add header background image here -  */
+ 
   background-image: url("images/banner-pic.jpg");
+ 
   margin-top: 5px;
   margin-bottom: 25px;
   padding: 10px;
