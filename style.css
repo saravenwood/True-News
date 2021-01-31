@@ -85,15 +85,16 @@ header{
 /*Add header text here*/
 
 h1{
-  color: black;
+  color: blue;
   text-align: center;
   font-size: 100px;
-  text-shadow: 4px 4px gray;
+  text-shadow: 4px 4px lightblue;
  
  h2{
-  color: gray;
+  color: blue;
   text-align: center;
-  font-size: 75px;
+  font-size: 100px;
+  text-shadow: 4px 4px lightblue;
  
   /*Add the font Anurati-Regular*/ 
  
