@@ -1,9 +1,14 @@
  /* This is the container for the body */
+
 body{
+ 
   /* Add background image here -  */
-  background-image: url(".jpg");
+ 
+  background-image: url("True-News/Page-Background.jpg");
   padding: 15px;
   border: 10px;
   border-style: double;
-  border-color: aqua; 
+  border-color: Silver; 
 }
+
+
