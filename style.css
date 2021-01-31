@@ -30,6 +30,8 @@ body{
 nav{
   /* Add background image here - Megaphone-graphic */
   background-image: url("True-News/Megaphone-graphic.gif");
+  height: 175px;
+  width: 1000px;
   padding: 50px;
   border: 10px;
   border-style: double;
