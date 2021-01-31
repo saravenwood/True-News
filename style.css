@@ -13,10 +13,16 @@ body{
 
 /*This is the Container for the Header Image*/
 
-img1{
-  padding: 5px;
+.img1{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 30%;
   border: 10px;
   border-style: double;
   border-color: Silver;
+}
 
 
