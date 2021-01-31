@@ -14,5 +14,9 @@ body{
 /*This is the Container for the Header Image*/
 
 img1{
+  padding: 5px;
+  border: 10px;
+  border-style: double;
+  border-color: Silver;
 
 
