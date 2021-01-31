@@ -19,7 +19,7 @@ body{
   margin-right: auto;
   margin-top: 10px;
   margin-bottom: 10px;
-  width: 30%;
+  width: 80%;
   border: 10px;
   border-style: double;
   border-color: Silver;
@@ -29,7 +29,7 @@ body{
 nav{
   /* Add background image here - Megaphone-graphic */
   background-image: url("True-News/Megaphone-graphic.gif");
-  padding: 5px;
+  padding: 15px;
   border: 10px;
   border-style: double;
   border-color: Silver;
@@ -38,7 +38,7 @@ nav{
 
 /* this is button containers for the navigations */
 a{
-  background-color: darkgray;
+  background-color: black;
   font-family: 'anurati-regular';
   color: White;
   border-color: silver;
