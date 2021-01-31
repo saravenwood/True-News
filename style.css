@@ -1,8 +1,8 @@
- /* This is the container for the body */
+ /*This is the container for the body*/
 
 body{
  
-  /* Add background image here -  */
+  /*Add background image here - Page-Background*/
  
   background-image: url("True-News/Page-Background.jpg");
   padding: 15px;
@@ -10,5 +10,9 @@ body{
   border-style: double;
   border-color: Silver; 
 }
+
+/*This is the Container for the Header Image*/
+
+img1{
 
 
