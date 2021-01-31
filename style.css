@@ -27,8 +27,8 @@ body{
 
 /* this is the container for the navigation bar */
 nav{
-  /* Add background image here - Banner-pic */
-  background-image: url("images/banner-pic.jpg");
+  /* Add background image here - Megaphone-graphic */
+  background-image: url("True-News/Megaphone-graphic.gif");
   padding: 5px;
   border: 10px;
   border-style: double;
