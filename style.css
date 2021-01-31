@@ -20,16 +20,15 @@ body{
   margin-right: auto;
   margin-top: 10px;
   margin-bottom: 10px;
-  width: 90%;
+  width: 95%;
   border: 10px;
   border-style: double;
   border-color: Silver;
 }
 
 /* this is the container for the navigation bar */
+
 nav{
-  /* Add background image here - Megaphone-graphic */
-  background-image: url("True-News/Megaphone-graphic.gif");
   height: 175px;
   width: 1000px;
   padding: 50px;
@@ -37,12 +36,13 @@ nav{
   border-style: double;
   border-color: Silver;
   margin-bottom: 25px;
+  background-color: black;
 }
 
 /* this is button containers for the navigations */
 
 a{
-  background-color: black;
+  background-color: tan;
   font-family: 'anurati-regular';
   color: White;
   border-color: silver;
