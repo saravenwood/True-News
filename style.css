@@ -25,6 +25,36 @@ body{
   border-color: Silver;
 }
 
+/* this is the container for the navigation bar */
+nav{
+  /* Add background image here - Banner-pic */
+  background-image: url("images/banner-pic.jpg");
+  padding: 5px;
+  border: 10px;
+  border-style: double;
+  border-color: Silver;
+  margin-bottom: 25px;
+}
+
+/* this is button containers for the navigations */
+a{
+  background-color: darkgray;
+  font-family: 'anurati-regular';
+  color: White;
+  border-color: silver;
+  font-size: 20px;
+}
+
+/* Change the link color to blue on hover */
+ul a:hover {
+  background-color: blue;
+}
+
+/* Change the link color to red when active */
+.active{
+  background-color: red;
+}
+
 
 
 
