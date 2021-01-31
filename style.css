@@ -26,7 +26,7 @@ body{
   border-color: Silver;
 }
 
-/* this is the container for the navigation bar */
+/*this is the container for the navigation bar*/
 
 nav{
   height: 175px;
@@ -39,7 +39,7 @@ nav{
   background-color: black;
 }
 
-/* this is button containers for the navigations */
+/*this is button containers for the navigations*/
 
 a{
   background-color: tan;
@@ -49,7 +49,7 @@ a{
   font-size: 20px;
 }
 
-/* Change the link color to blue on hover */
+/*Change the link color to blue on hover*/
 
 .a {
   transition-duration: 0.4s;
@@ -60,35 +60,44 @@ a{
   color: white;
 }
 
-/* Change the link color to red when active */
+/*Change the link color to red when active*/
 
 a:active {
   background-color: red;
 }
 
-/* This is the container for the header (title) */
+/*This is the container for the header (title)*/
 
 header{
-  color: plum;
-  text-align: center;
-  font-size: 100px;
-  text-shadow: 4px 4px purple;
  
-  /* Add the font Anurati-Regular */ 
+  /*Add header background image here - Megaphone-graphic*/
  
-  font-family: 'anurati-regular';
- 
-  /* Add header background image here -  */
- 
-  background-image: url("images/banner-pic.jpg");
+  background-image: url("True-News/Megaphone-graphic.gif");
  
   margin-top: 5px;
   margin-bottom: 25px;
   padding: 10px;
   border: 10px;
   border-style: double;
-  border-color: aqua;
+  border-color: silver;
 }
+
+/*Add header text here*/
+
+h1{
+  color: black;
+  text-align: center;
+  font-size: 100px;
+  text-shadow: 4px 4px gray;
+ 
+ h2{
+  color: gray;
+  text-align: center;
+  font-size: 75px;
+ 
+  /*Add the font Anurati-Regular*/ 
+ 
+  font-family: 'anurati-regular';
 
 /* This is a container for the home page */
 
