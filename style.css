@@ -74,8 +74,6 @@ header{
  
   background-image: url("True-News/Megaphone-graphic.gif");
  
-  margin-top: 5px;
-  margin-bottom: 25px;
   padding: 10px;
   border: 10px;
   border-style: double;
@@ -111,6 +109,28 @@ h1{
   border-style: double;
   border-color: silver;
 }
+
+.flex-container{
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 25px;
+  padding: 5px;
+  border: 10px;
+  border-style: double;
+  border-color: aqua;
+  margin: 25px;
+  background-color: black;
+ 
+  /*Add the font Times New Roman*/
+ 
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 18px;
+  color: plum;
+  text-shadow: 2px 2px purple;
+}
+
+.img2{
+  
 
 
 
