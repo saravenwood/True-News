@@ -78,7 +78,6 @@ header{
   border: 10px;
   border-style: double;
   border-color: silver;
-}
 
 /*Add header text here*/
 
@@ -97,6 +96,7 @@ h1{
   /*Add the font Anurati-Regular*/ 
  
   font-family: 'anurati-regular';
+ }
 
 /* This is a container for the home page */
 
